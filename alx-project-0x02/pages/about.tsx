@@ -23,3 +23,5 @@ export default function About() {
     </main>
   );
 }
+
+//// ["import Header from "@/components/layout/Header" ]

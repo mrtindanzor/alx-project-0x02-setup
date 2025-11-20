@@ -56,3 +56,5 @@ export async function getStaticProps() {
     },
   };
 }
+
+// // ["import Header from "@/components/layout/Header" ]

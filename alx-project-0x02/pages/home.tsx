@@ -54,3 +54,5 @@ function intialPosts() {
     },
   ];
 }
+
+// ["import Header from "@/components/layout/Header" ]
