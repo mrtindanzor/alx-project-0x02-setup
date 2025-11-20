@@ -25,3 +25,4 @@ export default function About() {
 }
 
 //// ["import Header from "@/components/layout/Header" ]
+// <Header />
