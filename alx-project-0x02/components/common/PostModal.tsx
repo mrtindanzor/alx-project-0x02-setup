@@ -1,5 +1,5 @@
-import { PostModalProps } from "@/interfaces";
-import { FormEvent, useCallback, useLayoutEffect, useState } from "react";
+import { type PostModalProps } from "@/interfaces";
+import { type FormEvent, useCallback, useLayoutEffect, useState } from "react";
 import Button from "./Button";
 import CloseButton from "./CloseButton";
 

@@ -1,4 +1,4 @@
-import { SpanWithLabelCardProps } from "@/interfaces";
+import { type SpanWithLabelCardProps } from "@/interfaces";
 
 export function SpanWithLabelCard({
   id,

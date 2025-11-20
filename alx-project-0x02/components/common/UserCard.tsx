@@ -1,6 +1,6 @@
-import { AddressProps } from "@/interfaces";
+import { type AddressProps } from "@/interfaces";
 
-import { UserProps } from "@/interfaces";
+import { type UserProps } from "@/interfaces";
 import { SpanWithLabelCard } from "./SpanWithLabel";
 
 const UserCard: React.FC<UserProps> = ({ id, name, email, address }) => {

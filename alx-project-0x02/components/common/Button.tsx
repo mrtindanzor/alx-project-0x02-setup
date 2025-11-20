@@ -1,4 +1,4 @@
-import { ButtonProps } from "@/interfaces";
+import { type ButtonProps } from "@/interfaces";
 import { cva } from "class-variance-authority";
 
 export const ButtonVariants = cva(

@@ -1,4 +1,4 @@
-import { CloseButtonProps } from "@/interfaces";
+import { type CloseButtonProps } from "@/interfaces";
 
 export default function CloseButton({
   onClose,

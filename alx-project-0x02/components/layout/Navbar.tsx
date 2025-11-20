@@ -1,4 +1,4 @@
-import { NavLinkProps } from "@/interfaces";
+import { type NavLinkProps } from "@/interfaces";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
