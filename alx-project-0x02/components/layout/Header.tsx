@@ -11,3 +11,8 @@ export default function Header() {
     </header>
   );
 }
+
+// /home
+// /about
+// /users
+// /posts
