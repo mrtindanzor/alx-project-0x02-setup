@@ -61,3 +61,5 @@ export interface ButtonProps extends ComponentProps<"button"> {
   variant?: ButtonVariantProps
   shape: "rounded-sm" | "rounded-md" | "rounded-full"
 }
+
+// ["small", "medium", "large"]
